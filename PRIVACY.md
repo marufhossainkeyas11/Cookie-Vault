@@ -1,6 +1,6 @@
 # Privacy Policy — Cookie Vault
 
-**Last updated: [DATE — fill in when you publish]**
+**Last updated: 26/07/2026**
 
 ## Summary
 
@@ -53,4 +53,4 @@ same location with a new "Last updated" date.
 
 ## Contact
 
-[PLACEHOLDER — your email or a support alias]
+marufhossainkeyas@gmail.com
