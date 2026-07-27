@@ -87,7 +87,7 @@ URL into the "Privacy policy" field on the dashboard.
 ---
 
 ## Support email
-[PLACEHOLDER — your email or a support alias]
+marufhossainkeyas@gmail.com 
 
 ## Website / homepage
-[PLACEHOLDER — your GitHub repo URL once created]
+https://github.com/marufhossainkeyas11/Cookie-Vault.git
